@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-api-jwt",
+  "version": "1.0.0",
+  "description": "Membuat otentifikasi user dengan jwt dengan NodeJS, MySQL, dan Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unpri",
+    "microservice",
+    "node.js",
+    "express",
+    "jwt",
+    "authentification",
+    "mysql"
+  ],
+  "author": "mervin_howard",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.5",
+    "sequelize": "^6.37.5"
+  }
+}

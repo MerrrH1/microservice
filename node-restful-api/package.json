@@ -1,0 +1,26 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "Praktikum Microservice Membuat RESTful API Node.js, Express, MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unpri",
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi",
+    "microservice"
+  ],
+  "author": "mervin_howard",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.5"
+  }
+}
